@@ -1,0 +1,12 @@
+# Simulation artifacts and waveforms
+waves/*.vcd
+waves/*.fst
+sim/*.vvp
+sim/test_compile.vvp
+*.log
+
+# Build & temporary files
+*.o
+*.obj
+.system_generated/
+scratch/
